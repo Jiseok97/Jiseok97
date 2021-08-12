@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jiseok97's Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jiseok97&fontSize=90)
 ### Jiseok97's Git 👋😄
 <br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseok97&&show_icons=ture&theme=merko)
