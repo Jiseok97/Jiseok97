@@ -1,6 +1,6 @@
-### Hi there 👋
+### Nice meet U 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseok97&&show_icons=ture&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseok97&&show_icons=ture&theme=tokyounight)]
 
 <!--
 **Jiseok97/Jiseok97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
