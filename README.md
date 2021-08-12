@@ -1,6 +1,6 @@
 ### Nice meet U 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Have a nice Day :)%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Have a nice Day😄 %20render&fontSize=90)
 
 
 
