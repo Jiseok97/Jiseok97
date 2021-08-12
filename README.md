@@ -1,7 +1,4 @@
-### Nice meet U 👋
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=&fontSize=90)
-
+### Jiseok97's Git 👋😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseok97&&show_icons=ture&theme=merko)
 <br />
