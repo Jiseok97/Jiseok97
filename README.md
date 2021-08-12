@@ -2,7 +2,7 @@
 <br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseok97&&show_icons=ture&theme=merko)
 <br></br>
-<p algin = "right">
+<p algin = right>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiseok97&count_bg=%231AC273&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 <!--
