@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20Jiseok's%20Git&fontSize=60&fontColor=ffffff)
 ### 🛠 My commits 🛠
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseok97&&show_icons=ture&theme=merko)
-[![jiseok97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jiseok97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok97&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiseok97&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
