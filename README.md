@@ -1,6 +1,6 @@
 <div align = "center">
 
-  ## ❄️ Jiseok ❄️ </br>
+  ## ME 🤷🏻‍♂️ </br>
 
   #### Hi There! I'm a iOS developer</br>
   #### I love to learn and I am happiest when I am developing
