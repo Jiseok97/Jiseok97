@@ -29,5 +29,9 @@ I love to learn and I am happiest when I am developing
 
 ***
 
+<div align = "center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseok97&&show_icons=ture&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok97&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+
+</div>
