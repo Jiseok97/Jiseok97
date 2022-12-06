@@ -26,7 +26,7 @@
 
   ### My git stats 👨🏻‍💻
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseok97&&show_icons=ture&theme=merko) 
+  ![jiseok97 GitHub Stats](https://server.dooboo.io/github-stats-advanced/jiseok97)
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Jiseok97&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
