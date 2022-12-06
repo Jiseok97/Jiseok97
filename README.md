@@ -26,7 +26,7 @@
 
   ### My git stats 👨🏻‍💻
   
-  ![jiseok97 GitHub Stats](https://server.dooboo.io/github-stats-advanced/jiseok97)
+  <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats-advanced/choo121600?date=01" width="50%" /></a>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Jiseok97&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
