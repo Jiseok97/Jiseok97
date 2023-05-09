@@ -26,7 +26,7 @@
 
   ### My git stats 👨🏻‍💻
   
-  <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats/jiseok97" width="60%" /></a>
+<!--   <a href="https://dooboo.io"><img src="https://server.dooboo.io/github-stats/jiseok97" width="60%" /></a> -->
 
 </div>
 
