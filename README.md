@@ -4,6 +4,7 @@
 
   #### Hi There! I'm a iOS developer</br>
   #### I love to learn and I am happiest when I am developing
+  #### I strive for efficient and intuitive code
 
 </div>
 </br>
