@@ -25,8 +25,12 @@
 
   ### My git stats 👨🏻‍💻
   
-<!-- <a href="https://opgc.me/#/users/jiseok97" target="_blank"><img src="https://api.opgc.me/githubs/users/jiseok97/tag/?theme=basic" /></a> -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Jiseok97&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://opgc.me/#/users/jiseok97" target="_blank"><img src="https://api.opgc.me/githubs/users/jiseok97/tag/?theme=basic" /></a>
+
+</div>
+
+<div align = "center">
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=Jiseok97&no-bg=true&column=7&theme=darkhub" />
 </div>
   
 <div align = "center">
