@@ -35,5 +35,5 @@
 </div>
   
 <div align = "center">
-  <img width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Jiseok97&theme=github-compact"/>   
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiseok97&theme=dracula"/>   
 </div>
