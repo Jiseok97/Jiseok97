@@ -23,11 +23,9 @@
 ***
 
 <div align = "center">
-
+  
   ### My git stats 👨🏻‍💻
   
-  <a href="https://opgc.me/#/users/jiseok97" target="_blank"><img src="https://api.opgc.me/githubs/users/jiseok97/tag/?theme=basic" /></a>
-
 </div>
 
 <div align = "center">
